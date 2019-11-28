@@ -7,7 +7,7 @@ An ASCII Salvador Dali in your computer.
 - bs4
 - google_images_download
 
-### Important
+#### Important:
 
 - The Google Images API may become overloaded if called too often - be aware of this!
 - Python 3.7 and beyond is recommended. Earlier versions are not guaranteed to work.
