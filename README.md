@@ -1,7 +1,7 @@
 # Artist
 An ASCII Salvador Dali in your computer.
 
-### Install these packages via PIP beforehand:
+### Install these packages via pip beforehand:
 - requests
 - re
 - bs4
