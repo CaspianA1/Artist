@@ -3,7 +3,7 @@ An ASCII Salvador Dali in your computer.
 
 ### Install these packages via pip beforehand:
 - requests
-- re
+- regex
 - bs4
 - google_images_download
 
