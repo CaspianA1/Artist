@@ -1,2 +1,2 @@
 # Artist
-A Salvador Dali in your computer. 
+An ASCII Salvador Dali in your computer.
