@@ -11,3 +11,4 @@ An ASCII Salvador Dali in your computer.
 
 - The Google Images API may become overloaded if called too often - be aware of this!
 - Python 3.7 and beyond is recommended. Earlier versions are not guaranteed to work.
+- In order for the main module (artist.py) to run, you need to run Install Certificates (Install Certificates.command).
