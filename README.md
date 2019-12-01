@@ -15,3 +15,4 @@ An ASCII Salvador Dali in your computer.
 
 ### You can try it out here:
 - https://repl.it/repls/AridBackKeyboardmacro
+- Make sure to set the code box to as full-screen as possible!
